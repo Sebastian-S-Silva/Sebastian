@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @Sebastian-S-Silva; an intermediate programmer, studying Computer Science
 - 👀 I’m interested in working in Cyber Security or AI and Robotic as well as creating and collabing on interesting projects
-- 🌱 I’m currently learning Python, JS, C/C++ and  a bit of Web Development.
+- 🌱 I’m currently improving my Python, JS, C/C++ and a bit of Web Development. 
+- 💪 Solid grasp on Java, JS(as well as HTML/CSS) and Python.
+- 📖 Basic knowledge of C, Haskell, MySQL and Assembly.
 - 💞️ I’m looking to collaborate on any interesting project with a focus on the afore mentioned preferred fields of CyberSec and AI/Robotics
 - 📫 LI: https://www.linkedin.com/in/sebastian-silva-08a1301a6
 
